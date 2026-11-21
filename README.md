@@ -1,33 +1,51 @@
 # Meheraj Khatri | Software Engineer
-**Computer Science @ Kent State University** *Systems Architecture | Data Engineering | Full-Stack Development*
+**Computer Science at Kent State University** *Systems Architecture | Data Engineering | Full-Stack Development*
 
 ---
 
 ## Overview
-I am a Computer Science student at Kent State University (GPA: 3.70) specializing in **low-level systems architecture**, **automated data pipelines**, and **agile team-based software engineering**. I bridge the gap between complex backend logic and robust enterprise infrastructure.
+I am a Computer Science student at Kent State University specializing in **low-level systems architecture**, **automated data pipelines**, and **agile team-based software engineering**. I am actively seeking **research opportunities, internships, co-op roles, and other hands-on experiences**.
 
 ## Technical Matrix
-* **Languages:** Python, C++, MySQL, JavaScript, PostgreSQL, MIPS Assembly.
+* **Languages:** Python, C++, MySQL, JavaScript, HTML/CSS, PostgreSQL.
 * **Frameworks & Libraries:** Flask, React, Node.js, Pandas, Pygame, XGBoost, SLR Frameworks.
 * **Systems & Ops:** Docker Compose, WebAssembly, Linux (Ubuntu/Debian), OS Kernel Logic, 3NF Database Design, WINPAK Access Control.
 * **Tools:** Git/GitHub, Terminal/Shell Scripting, RStudio, Fusion.
 
 ## Professional & Leadership Experience
 
-### **Leadership Team Member & Lesson Developer** | HacKSU
-*Apr 2026 – Present*
-* Designing and testing developer-centric technical workshop curriculums to bridge classroom theory and industry standard practices.
-* Core organizing member structuring community strategies and high-impact technical events for the KSU CS ecosystem.
+### **Resident Assistant** | University Housing at KSU
+*Aug 2026 – Present*
+* Support assigned hall residents and foster an inclusive, safe, and engaging residential community.
+* Plan educational, social, and inclusive programming focused on community, academic success, and retention.
+* Respond to emergencies and conflicts while following university protocols.
 
-### **Federated Desktop Support Specialist** | Kent State University
-*Aug 2025 – Present*
-* Manage enterprise hardware and software infrastructure, including high-security WINPAK access control systems.
-* Collaborate with central IT to ensure 100% compliance with university network security protocols.
+### **IT Specialist** | SRWC at Kent State University
+*Aug 2025 – Jul 2026*
+* Managed facility-wide technical support for hardware, software, and access control issues.
+* Maintained university IT security standards through deployment and proactive facility support.
 
-### **SURE Undergraduate Research Fellow** | Data Pipeline Engineering
-*Jun 2025 – Jul 2025*
-* Engineered an automated Python pipeline to ingest and normalize disparate academic datasets (ACM, IEEE, Springer).
-* Implemented row validation and deduplication logic, **reducing manual data processing time by 80%**.
+### **Facility Supervisor** | SRWC at Kent State University
+*Apr 2025 – Jul 2026*
+* Oversaw building operations and incident response in a 150k+ sq. ft. campus facility.
+* Supervised and mentored student employees while enforcing operational, safety, and service protocols.
+
+### **Operations Assistant** | SRWC at Kent State University
+*Jul 2024 – Apr 2025*
+* Delivered customer service and enforced facility policies at the Student Recreation and Wellness Center.
+* Worked across the Welcome Desk and Fitness Floor to support diverse campus populations.
+
+### **Undergraduate Research Fellow** | SURE 2025, 2026
+*Jun 2025 – Jul 2025; Jun 2026 – Jul 2026*
+* Completed two 8-week SURE research programs while collaborating with faculty mentors.
+* Built a Python/Pandas pipeline to integrate academic datasets from ACM, IEEE, Springer, and WoS.
+* Applied systematic literature review methods to identify research gaps in AI's impact on pedagogy.
+
+### **Leadership & Campus Engagement**
+* DI Fellows Apprentice at the Kent State DI Hub, beginning September 2026.
+* Flashes Fellow Cohort Member, beginning August 2026.
+* Outreach & IT Coordinator for Kent-NSA, beginning August 2026.
+* Leadership Team Member at HacKSU, beginning April 2026.
 
 ## Key Projects
 
